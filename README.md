@@ -1,6 +1,6 @@
 # FSI - Trabajo 1: CNN Image Classification
 #### Luis Martín Pérez
-#### Killian Santana Delgado
+#### Kilian Santana Delgado
 
 ---
 #### Dataset used: [52 Card images](https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification)
